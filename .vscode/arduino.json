@@ -1,0 +1,6 @@
+{
+    "port": "COM9",
+    "board": "arduino:mbed_rp2040:pico",
+    "programmer": "arduino:cmsis-dap",
+    "sketch": "OLED1.3\\OLED1.3.ino"
+}
