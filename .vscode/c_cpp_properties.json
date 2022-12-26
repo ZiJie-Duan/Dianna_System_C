@@ -10,15 +10,15 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\cores\\arduino",
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\variants\\RASPBERRY_PI_PICO",
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\libraries\\SPI",
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\libraries\\Wire",
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\cores\\arduino",
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\variants\\RASPBERRY_PI_PICO",
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\libraries\\SPI",
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\libraries\\Wire",
                 "C:\\Users\\lucyc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
                 "C:\\Users\\lucyc\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
-                "C:\\Users\\lucyc\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\cores\\arduino\\api\\deprecated",
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\cores\\arduino\\api\\deprecated-avr-comp",
+                "C:\\Users\\lucyc\\Documents\\Arduino\\libraries\\Adafruit_SSD1327",
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\cores\\arduino\\api\\deprecated",
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\cores\\arduino\\api\\deprecated-avr-comp",
                 "c:\\users\\lucyc\\appdata\\local\\arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1",
                 "c:\\users\\lucyc\\appdata\\local\\arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1\\arm-none-eabi",
                 "c:\\users\\lucyc\\appdata\\local\\arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1\\backward",
@@ -27,7 +27,7 @@
                 "c:\\users\\lucyc\\appdata\\local\\arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include"
             ],
             "forcedInclude": [
-                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.3.0\\cores\\arduino\\Arduino.h"
+                "C:\\Users\\lucyc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\3.5.1\\cores\\arduino\\Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
